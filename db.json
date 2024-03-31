@@ -1,20 +1,6 @@
 {
   "transactions": [
     {
-      "id": "5",
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
-    },
-    {
-      "id": "7",
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
-    },
-    {
       "id": "11",
       "date": "2019-12-16",
       "description": "MTA Vending Machine: MetroCard",
@@ -66,6 +52,13 @@
     {
       "id": "b4dc",
       "date": "",
+      "description": "tuition fees",
+      "category": "income",
+      "amount": "21"
+    },
+    {
+      "id": "fec5",
+      "date": "2024-02-26",
       "description": "tuition fees",
       "category": "income",
       "amount": "21"
