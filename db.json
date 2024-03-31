@@ -1,0 +1,74 @@
+{
+  "transactions": [
+    {
+      "id": "5",
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
+    },
+    {
+      "id": "7",
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
+    },
+    {
+      "id": "11",
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
+    },
+    {
+      "id": "12",
+      "date": "2019-12-17",
+      "description": "Venmo, Pay Roommate for Rent",
+      "category": "Housing",
+      "amount": -975
+    },
+    {
+      "id": "68c8",
+      "date": "2024-03-18",
+      "description": "hhh",
+      "category": "hhh",
+      "amount": "21"
+    },
+    {
+      "id": "6921",
+      "date": "2024-03-06",
+      "description": "food",
+      "category": "income",
+      "amount": "2000"
+    },
+    {
+      "id": "13cb",
+      "date": "2024-03-12",
+      "description": "tuition fees",
+      "category": "income",
+      "amount": "10000"
+    },
+    {
+      "id": "b4bb",
+      "date": "2024-03-19",
+      "description": "Cake",
+      "category": "Food",
+      "amount": "1000"
+    },
+    {
+      "id": "1d03",
+      "date": "2024-03-19",
+      "description": "tuition fees",
+      "category": "income",
+      "amount": "21"
+    },
+    {
+      "id": "b4dc",
+      "date": "",
+      "description": "tuition fees",
+      "category": "income",
+      "amount": "21"
+    }
+  ]
+}
